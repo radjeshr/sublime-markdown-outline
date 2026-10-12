@@ -1,0 +1,20 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Markdown Outline",
+                "children":
+                [
+                    {"caption": "Show Right", "command": "md_outline_show"},
+                    {"caption": "Fold Menu", "command": "md_outline_fold_menu"},
+                    {"caption": "Unfold All", "command": "md_outline_unfold_all"},
+                    {"caption": "-"},
+                    {"caption": "Refresh", "command": "md_outline_refresh"},
+                    {"caption": "Close", "command": "md_outline_close"}
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1 @@
+Markdown Outline 1.0.0: first stable GitHub release with global fold levels and progressive drill-down.

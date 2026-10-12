@@ -1,0 +1,52 @@
+[
+    {
+        "caption": "Markdown Outline: Show Right",
+        "command": "md_outline_show"
+    },
+    {
+        "caption": "Markdown Outline: Fold Menu",
+        "command": "md_outline_fold_menu"
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 1",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 1}
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 2",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 2}
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 3",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 3}
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 4",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 4}
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 5",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 5}
+    },
+    {
+        "caption": "Markdown Outline: Fold Level 6",
+        "command": "md_outline_set_fold_level",
+        "args": {"level": 6}
+    },
+    {
+        "caption": "Markdown Outline: Unfold All",
+        "command": "md_outline_unfold_all"
+    },
+    {
+        "caption": "Markdown Outline: Refresh",
+        "command": "md_outline_refresh"
+    },
+    {
+        "caption": "Markdown Outline: Close",
+        "command": "md_outline_close"
+    }
+]

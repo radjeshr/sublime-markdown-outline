@@ -1,0 +1,2 @@
+Markdown Outline installed.
+Open a Markdown file and run 'Markdown Outline: Show Right' from the Command Palette.
